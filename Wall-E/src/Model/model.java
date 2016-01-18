@@ -1,5 +1,5 @@
 package Model;
 
-public class Map {
+public class model {
 
 }
